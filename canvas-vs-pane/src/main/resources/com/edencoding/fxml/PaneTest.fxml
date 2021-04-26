@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.canvas.Canvas?>
+<?import javafx.scene.layout.Pane?>
+<BorderPane xmlns="http://javafx.com/javafx/10.0.2-internal" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.edencoding.controllers.PaneTestController">
+   <center>
+       <Pane style="-fx-background-color: grey;" prefWidth="1200" prefHeight="700" fx:id="pane"/>
+   </center>
+</BorderPane>
